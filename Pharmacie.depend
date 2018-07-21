@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1480413488 source:c:\users\tris trefl\desktop\c++\pharmacie\main.cpp
+	<iostream>
+	<string.h>
+	"include/Medicament.h"
+
+1480413388 c:\users\tris trefl\desktop\c++\pharmacie\include\medicament.h
+	<iostream>
+	<string.h>
+
+1480413388 source:c:\users\tris trefl\desktop\c++\pharmacie\src\medicament.cpp
+	"../include/Medicament.h"
+
+1480792387 source:c:\users\oussema\desktop\pharmacie\main.cpp
+	<iostream>
+	<string.h>
+	"Stock.h"
+
+1480789130 c:\users\oussema\desktop\pharmacie\include\medicament.h
+	<iostream>
+	<string.h>
+
+1480793804 source:c:\users\oussema\desktop\pharmacie\src\medicament.cpp
+	"../include/Medicament.h"
+
+1480792290 c:\users\oussema\desktop\pharmacie\stock.h
+	"include/Medicament.h"
+
+1480792387 source:c:\users\oussema\desktop\pharmacie 22\main.cpp
+	<iostream>
+	<string.h>
+	"Stock.h"
+
+1480792290 c:\users\oussema\desktop\pharmacie 22\stock.h
+	"include/Medicament.h"
+
+1480789130 c:\users\oussema\desktop\pharmacie 22\include\medicament.h
+	<iostream>
+	<string.h>
+
+1480793804 source:c:\users\oussema\desktop\pharmacie 22\src\medicament.cpp
+	"../include/Medicament.h"
+
